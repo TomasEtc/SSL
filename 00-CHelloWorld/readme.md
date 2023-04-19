@@ -1,1 +1,1 @@
-
+Compilador: VSCode, MinGW
